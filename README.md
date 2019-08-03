@@ -1,4 +1,4 @@
-# consul-go-grpc-demo
+# consul_grpc_demo
 用consul做grpc的服务注册与发现，示例代码
 
 ### run
